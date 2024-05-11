@@ -1,0 +1,25 @@
+/* img{
+    height: 50px;
+} */
+
+#ravi{
+    height: 250px;
+    width: 250px;
+    background-color: rgb(7, 109, 109);
+    border: 5px solid black;
+    border-radius: 15px;
+}
+#yash{
+    height: 250px;
+    width: 250px;
+    background-color: rgb(7, 109, 109);
+    border: 5px solid rgb(39, 136, 160);
+    border-radius: 15px;
+}
+
+h2{
+    font-size: 50px;
+    font-family: monospace;
+    background-color: antiquewhite;
+    color: aqua;
+}
